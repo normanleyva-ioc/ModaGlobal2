@@ -1,1 +1,1 @@
-// Aqui ficarem el codi JS
+console.log("Hola mon1");
